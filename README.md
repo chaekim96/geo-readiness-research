@@ -111,3 +111,7 @@ Marketplace sources:
 - **Alibaba.com:** [Apple App Store, Accio](https://apps.apple.com/np/app/accio-alibaba-com-ai-agent/id6739872836) (vendor listing)
 - **Ankorstore:** [TechCrunch, Ankorstore valuation (2022)](https://techcrunch.com/2022/01/09/ankorstore-reaches-2-billion-valuation-two-years-after-launching-its-wholesale-marketplace)
 - **Temu and Shein:** no relevant sources found
+
+## Related: Profound value test plans
+
+The [profound-test-plans](profound-test-plans/) folder has the four test plans (holdout pages, crawl to citation, accuracy audit, launch tracking), the Test 5 prompt set and the Test 5 fact sheet. They describe how to turn this research into measured proof.
